@@ -1,0 +1,10 @@
+Column,Data_Type,Missing_Values,Unique_Values
+Student_ID,str,0,10
+Study_Hours,int64,0,9
+Attendance,int64,0,10
+Math_Marks,int64,0,10
+Science_Marks,int64,0,10
+Assignments_Completed,int64,0,7
+Average_Marks,float64,0,9
+Performance_Level,str,0,4
+Study_Recommendation,str,0,3

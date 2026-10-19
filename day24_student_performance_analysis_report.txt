@@ -1,0 +1,37 @@
+STUDENT PERFORMANCE PREDICTION SYSTEM
+DAY 24 - DATA ANALYSIS REPORT
+=============================================
+Report Generated: 2026-10-20 00:19:10
+
+DATASET OVERVIEW
+-------------------------
+Total Students (Rows): 10
+Total Columns: 9
+Total Missing Values: 0
+Total Duplicate Rows: 0
+
+COLUMN DETAILS
+-------------------------
+Student_ID: str, Missing=0
+Study_Hours: int64, Missing=0
+Attendance: int64, Missing=0
+Math_Marks: int64, Missing=0
+Science_Marks: int64, Missing=0
+Assignments_Completed: int64, Missing=0
+Average_Marks: float64, Missing=0
+Performance_Level: str, Missing=0
+Study_Recommendation: str, Missing=0
+
+NUMERIC SUMMARY
+-------------------------
+       Study_Hours  Attendance  Math_Marks  Science_Marks  Assignments_Completed  Average_Marks
+count    10.000000   10.000000    10.00000      10.000000              10.000000       10.00000
+mean      5.000000   79.800000    69.70000      71.600000               7.600000       70.65000
+std       2.581989   15.024425    22.04566      20.467861               2.366432       21.23421
+min       1.000000   50.000000    30.00000      35.000000               3.000000       32.50000
+25%       3.250000   71.250000    56.50000      59.500000               6.250000       58.00000
+50%       5.000000   82.500000    76.00000      77.500000               8.000000       77.50000
+75%       6.750000   91.000000    86.25000      88.000000               9.750000       86.75000
+max       9.000000   98.000000    96.00000      94.000000              10.000000       94.50000
+
+END OF REPORT
