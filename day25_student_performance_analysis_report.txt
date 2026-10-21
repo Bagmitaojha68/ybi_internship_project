@@ -1,0 +1,26 @@
+
+DAY 25 PROJECT REPORT
+Project Name: Student Performance Prediction System
+
+Dataset rows: 15
+Dataset columns: 7
+
+Available columns:
+['Study_Hours', 'Attendance', 'Previous_Marks', 'Final_Marks', 'Performance_Category', 'Model_Predicted_Category', 'Correct_Prediction']
+
+Missing values:
+Study_Hours                  0
+Attendance                   0
+Previous_Marks               0
+Final_Marks                  0
+Performance_Category         0
+Model_Predicted_Category     0
+Correct_Prediction          12
+
+Duplicate rows: 0
+
+Note:
+This dataset contains predicted performance labels.
+Actual ground-truth labels are not available in the
+provided columns, so model accuracy and other
+classification evaluation metrics cannot yet be verified.
