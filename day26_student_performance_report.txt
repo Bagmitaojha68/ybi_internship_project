@@ -1,0 +1,44 @@
+
+==================================================
+STUDENT PERFORMANCE PREDICTION SYSTEM
+DAY 26 - ANALYSIS REPORT
+==================================================
+
+Dataset Information
+-------------------
+Total Students (Rows): 5
+Total Columns: 2
+
+Dataset Columns
+---------------
+['Actual_Performance', 'Predicted_Performance']
+
+Missing Values
+--------------
+Actual_Performance       0
+Predicted_Performance    0
+
+Duplicate Rows
+--------------
+3
+
+Numerical Summary
+-----------------
+       Actual_Performance Predicted_Performance
+count                   5                     5
+unique                  2                     2
+top                  High                  High
+freq                    3                     3
+
+Predicted Performance Distribution
+----------------------------------
+Column not available
+
+Note:
+This report describes the available dataset and its
+predicted performance labels. Actual student outcomes
+are required to validate prediction accuracy.
+
+==================================================
+END OF REPORT
+==================================================
