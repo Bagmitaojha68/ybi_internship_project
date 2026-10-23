@@ -1,0 +1,21 @@
+STUDENT PERFORMANCE PREDICTION SYSTEM
+DAY 27: STUDENT PERFORMANCE ANALYSIS REPORT
+==================================================
+
+Total Records: 3
+Total Columns: 3
+Duplicate Rows: 0
+
+Missing Values by Column:
+Actual_Marks: 0
+Predicted_Marks: 0
+Absolute_Error: 0
+
+Numerical Column Averages:
+Actual_Marks: 51.33
+Predicted_Marks: 51.66
+Absolute_Error: 1.32
+
+Analysis Summary:
+Descriptive statistics and visualizations were generated to explore the student dataset.
+These results describe the available data and do not independently validate prediction accuracy.

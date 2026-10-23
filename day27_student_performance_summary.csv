@@ -1,0 +1,8 @@
+Metric,Value
+Total Rows,3.0
+Total Columns,3.0
+Mean Actual Marks,51.333333333333336
+Mean Predicted Marks,51.66
+Mean Absolute Error,1.32
+Max Error,1.49
+Min Error,1.18

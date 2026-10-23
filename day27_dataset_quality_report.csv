@@ -1,0 +1,4 @@
+Column,Data_Type,Missing_Values,Missing_Percentage,Unique_Values
+Actual_Marks,int64,0,0.0,3
+Predicted_Marks,float64,0,0.0,3
+Absolute_Error,float64,0,0.0,3
