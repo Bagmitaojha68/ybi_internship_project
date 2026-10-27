@@ -1,0 +1,5 @@
+feature,valid_count,outlier_count,outlier_percentage,lower_bound,upper_bound
+study_hours,3,0,0.0,2.8500000000000005,7.249999999999999
+attendance,3,0,0.0,82.125,93.125
+previous_score,3,0,0.0,25.64999999999999,65.25000000000001
+assignments_completed,3,0,0.0,8.377499999999998,8.997500000000002
