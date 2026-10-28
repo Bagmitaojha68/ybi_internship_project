@@ -1,0 +1,8 @@
+feature,feature_type,non_missing_count,missing_count,unique_values,mean,std,min,max,is_constant,has_missing_values
+study_hours,Original,3,0,3,5.133333333333334,1.1372481406154655,4.2,6.4,False,False
+attendance,Original,3,0,3,87.83333333333333,2.8431203515386634,85.5,91.0,False,False
+previous_score,Original,3,0,3,46.20000000000001,10.235233265539192,37.8,57.6,False,False
+assignments_completed,Original,3,0,3,8.68,0.15716233645501743,8.51,8.82,False,False
+study_attendance_ratio,Engineered,3,0,3,0.05820829704677255,0.010924523020811264,0.04912280701754386,0.07032967032967033,False,False
+previous_score_proportion,Engineered,3,0,3,0.462,0.10235233265539194,0.37799999999999995,0.5760000000000001,False,False
+assignment_count_feature,Engineered,3,0,3,8.68,0.15716233645501743,8.51,8.82,False,False
