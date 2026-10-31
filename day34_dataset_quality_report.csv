@@ -1,0 +1,5 @@
+Feature,Data Type,Total Rows,Missing Values,Unique Values,Minimum,Maximum,Mean
+study_hours,float64,3,0,3,4.2,6.4,5.13
+attendance,float64,3,0,3,85.5,91.0,87.83
+previous_score,float64,3,0,3,37.8,57.6,46.2
+assignments_completed,float64,3,0,3,8.51,8.82,8.68
