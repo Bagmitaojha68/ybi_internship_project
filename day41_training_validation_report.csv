@@ -1,0 +1,5 @@
+Feature,Data Type,Missing Values,Unique Values
+study_hours,int64,0,9
+attendance,int64,0,40
+previous_score,int64,0,63
+assignments_completed,int64,0,9
